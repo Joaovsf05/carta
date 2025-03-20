@@ -1,0 +1,17 @@
+.container-principal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  scale: 50%;
+}
+
+.div {
+  display: block;
+  unicode-bidi: isolate;
+}
+
+.container-image {
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(154, 243, 159, 0.5);
+}
